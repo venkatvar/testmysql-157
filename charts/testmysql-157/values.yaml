@@ -5,7 +5,7 @@ image: "mysql"
 imageTag: "5.7.14"
 
 ## Specify password for root user
-##`#
+##`##
 mysqlRootPassword: root-password
 mysqlUser: user
 mysqlPassword: user-password
