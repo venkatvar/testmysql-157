@@ -14,7 +14,7 @@ mysqlDatabase: my-database
 # mysqlRootPassword: testing
 
 ## Create a database user
-####
+#####
 # mysqlUser:
 # mysqlPassword:
 
